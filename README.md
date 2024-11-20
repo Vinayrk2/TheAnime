@@ -32,5 +32,5 @@ Welcome to the Anime Git and Image Viewer! This project allows users to explore 
 
 [Click here to visit the project](https://vinayrk2.github.io/anime.github.io/)
 
-** Note : (Only For The API Testing Purpose Created This Project - API may send the adult content response.) 
-** There is no purpose for this project.
+** Note : (Only For The API Testing Purpose Created This Project - API may contain adult content.)** 
+** There is no purpose for this project.**
