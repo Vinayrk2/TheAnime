@@ -6,3 +6,28 @@ html {
 .card {
   width: 300px;
 }
+
+.navbar-brand{
+  text-shadow: 2px 2px 5px #00000044;
+  text-transform: uppercase;
+}
+#main{
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#cardButton{
+  position: absolute;
+  bottom:0;
+  left: 0;
+  border-top: 2px solid black;
+  text-transform: uppercase;
+  background-color: aquamarine;
+}
+
+.original-border {
+  background-color: #eeeeee;
+  outline: 3px solid #5593d681;
+}
