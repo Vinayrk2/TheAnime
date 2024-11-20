@@ -28,7 +28,7 @@ Welcome to the Anime Git and Image Viewer! This project allows users to explore 
 - **User Accounts**: Allow users to create accounts and save their favorite images.
 - **Image Gallery**: Create a gallery view for better image browsing experience.
 
-## Play with the Anime Git and Image Viewer 
+## Visit the Anime Moments and Image Viewer (dynamic)
 
 [Click here to visit the project](https://vinayrk2.github.io/anime.github.io/)
 
